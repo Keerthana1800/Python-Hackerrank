@@ -1,0 +1,11 @@
+# Third Program- Calculate Sum,Difference and Product of two integers
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    sum=a+b
+    print(sum)
+    sub=a-b
+    print(sub)
+    prod=a*b
+    print(prod)
